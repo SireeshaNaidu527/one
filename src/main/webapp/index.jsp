@@ -122,7 +122,7 @@
             <div class="course-card">
                 <img src="https://via.placeholder.com/300x200" alt="Course 1">
                 <h3>Computer Science</h3>
-                <p>Learn the fundamentals of computer science and software development.</p>
+                <p>Learn the fundamentals of computer science and software development.happy learning</p>
             </div>
             <div class="course-card">
                 <img src="https://via.placeholder.com/300x200" alt="Course 2">
