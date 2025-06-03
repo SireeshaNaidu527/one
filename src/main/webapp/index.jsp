@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>hey,Welcome to Our College</h1>
+        <h1>hey,Welcome to Our DevOps</h1>
     </header>
 
     <nav>
