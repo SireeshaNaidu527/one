@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> College Website :)</title>
+    <title> College Website :)</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -94,6 +96,7 @@
 
     <header>
         <h1>hey,Welcome to Our DevOps</h1>
+        <h1>I am learning devops</h1>
     </header>
 
     <nav>
