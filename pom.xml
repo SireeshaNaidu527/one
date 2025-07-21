@@ -59,7 +59,7 @@
         </snapshotRepository>
         <repository>
             <id>nexusRepo</id>
-            <url>http://13.53.138.219:8081/flm-releases</url>
+            <url>http://13.53.138.219:8081/repository/flm-releases/</url>
         </repository>
     </distributionManagement>
 
